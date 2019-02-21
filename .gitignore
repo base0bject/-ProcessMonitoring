@@ -1,0 +1,28 @@
+#GitIgnore for Monitor_exe
+
+*.vs/
+.vs/
+*.exe
+*.ilk
+*.pbd
+*.user
+*.h
+*.vcxproj.user
+.vcxproj.user
+
+MonitoringProg/Debug/
+
+MonitoringProg/MonitoringProg/vcxproj.user
+MonitoringProg/MonitoringProg/pch.cpp
+MonitoringProg/MonitoringProg/pch.h
+
+Testing/Debug/
+
+Testing/Testing/vcxproj.user
+Testing/Testing/pch.cpp
+Testing/Testing/pch.h
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
